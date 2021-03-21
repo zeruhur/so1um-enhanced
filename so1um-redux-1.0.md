@@ -16,29 +16,29 @@ If circumstances are different, include an additional die in favor of the more l
 
 If the dice are equal a **twist happens**.
 
-- highest white die: Yes
-- highest black die: No
-- both 4+: And
-- both 3-: No
-- equal: twist
+* highest white die: Yes
+* highest black die: No
+* both 4+: And
+* both 3-: No
+* equal: twist
 
 ## Determine the twist.
 
 Roll 2d6 and consult the following lists to determine what kind of twist. 
 
-1- NPC
-2- PC
-3- Organization
-4- Physical event
-5- Emotional event
-6- Object
+1. NPC
+2. PC
+3. Organization
+4. Physical event
+5. Emotional event
+6. Object
 
-1- Appears
-2- Alters the location
-3- Helps the hero
-4- Hinders the hero
-5- Changes the goal
-6- Ends the scene
+1. Appears
+2. Alters the location
+3. Helps the hero
+4. Hinders the hero
+5. Changes the goal
+6. Ends the scene
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
 
@@ -81,9 +81,9 @@ Once the scene ends in some way (the protagonist's goal is met or failed) take a
 
 At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following:
 
-1-3: Dramatic scene
-4-5: Quiet Scene
-6: Meanwhile…
+* 1-3: Dramatic scene
+* 4-5: Quiet Scene
+* 6: Meanwhile…
 
 A *dramatic scene* does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
 During a *quiet scene* there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
@@ -93,12 +93,12 @@ A *meanwhile scene* that takes place somewhere else than where the hero is. It c
 
 When your character comes into dangerous or risky situations, determine Difficulty (either via narratory license or dice, *see below*). Use dice equal to Body, Mind, or Spirit for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls equal to the Difficulty or higher, you succeed!
 
-1- *Automatic*  
-2- *Simple*  
-3- *Easy*  
-4- *Average*  
-5- *Tricky*  
-6- *Hard*
+1. *Automatic*  
+2. *Simple*  
+3. *Easy*  
+4. *Average*  
+5. *Tricky*  
+6. *Hard*
 
 ## Scale up/down Difficulty.
 
