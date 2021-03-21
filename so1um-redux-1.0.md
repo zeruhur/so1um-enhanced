@@ -95,11 +95,11 @@ A *meanwhile scene* that takes place somewhere else than where the hero is. It c
 
 When your character comes into dangerous or risky situations, determine Difficulty (either via narratory license or dice, *see below*). Use dice equal to Body, Mind, or Spirit for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls equal to the Difficulty or higher, you succeed!
 
-1. *Automatic*  
-2. *Simple*  
-3. *Easy*  
-4. *Average*  
-5. *Tricky*  
+1. *Automatic*
+2. *Simple*
+3. *Easy*
+4. *Average*
+5. *Tricky*
 6. *Hard*
 
 ## Scale up/down Difficulty.
