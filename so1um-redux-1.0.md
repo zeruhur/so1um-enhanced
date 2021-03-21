@@ -26,6 +26,7 @@ If the dice are equal a **twist happens**.
 
 Roll 2d6 and consult the following lists to determine what kind of twist. 
 
+1st d6
 1. NPC
 2. PC
 3. Organization
@@ -33,6 +34,7 @@ Roll 2d6 and consult the following lists to determine what kind of twist.
 5. Emotional event
 6. Object
 
+2nd d6
 1. Appears
 2. Alters the location
 3. Helps the hero
