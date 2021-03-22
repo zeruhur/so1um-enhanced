@@ -1,12 +1,96 @@
 # so1um redux
+CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)
+based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
 
 ## Create your hero.
 
-Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even number are equal to one, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. If you wish, determine a past, looks, quirks, etc.
+Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even number are equal to one, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
+
+# Flesh out a background.
+If you wish, determine a past, looks, quirks, etc.
+
+* Archetype
+    1. The Paragon
+    2. The Cynic
+    3. The Fool
+    4. The Idealist
+    5. Lovable Rogue
+    6. Rebellious Spirit
+* Personality
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+* Asset
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+* Flaw
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+* Background
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
 
 ## Determine goals & the first scene.
 
-Figure out why your character is there and where they are in their story. This is a short description of where our hero is and what's happening. Imagine a starting point for your adventure. Are you *stealing space station plans? Are you plundering a tomb?*
+Figure out why your character is there and where they are in their story. Imagine a starting point for your adventure. If none comes to mind, roll on each of the following questions to generate a random adventure seed.
+
+* Who? The proposer
+    1. authority
+    2. organization
+    3. ally (friend, relative)
+    4. mentor
+    5. help-seeker
+    6. blackmailer
+* What? The mission
+    1. rescue
+    2. protection
+    3. exploit
+    4. explore
+    5. escape
+    6. pursuit
+* Why? The incentive
+    1. help
+    2. fortune
+    3. coercition
+    4. impulse
+    5. ambition
+    6. revenge
+* Where? The target
+    1. person
+    2. group
+    3. treasure
+    4. location
+    5. mcguffin
+    6. confession
+* How? The seed
+    1. casual encounter
+    2. old acquaintance 
+    3. rumors
+    4. capture
+    5. mishap
+    6. object (map, journal, letter)
+* Obstacle? The complication
+    1. opposition
+    2. deception
+    3. environment
+    4. disguise
+    5. time
+    6. space
 
 ## Begin asking questions.
 
@@ -16,6 +100,7 @@ If circumstances are different, include an additional die in favor of the more l
 
 If the dice are equal a **twist happens**.
 
+Summarizing:
 * highest white die: Yes
 * highest black die: No
 * both 4+: And
@@ -27,12 +112,12 @@ If the dice are equal a **twist happens**.
 Roll 2d6 and consult the following lists to determine what kind of twist. 
 
 1st d6
-1. NPC
-2. PC
-3. Organization
-4. Physical event
-5. Emotional event
-6. Object
+1. A third party
+2. The hero
+3. A monster
+4. A physical event
+5. An emotional event
+6. An object
 
 2nd d6
 1. Appears
@@ -76,7 +161,6 @@ Sometimes a closed **Yes/No** question it won't be enough. To ask an open questi
 | 5          | quiet       | stormy        | spooky    | delirious     | innate      | late      |
 | 6          | magnificent | arrogant      | unhealthy | enormous      | truculent   | charming  |
 
-
 ## Determine the mood of the next scene.
 
 Once the scene ends in some way (the protagonist's goal is met or failed) take a breath, and roll the next scene:
@@ -114,14 +198,19 @@ Combats are like a contests, but instead of rolling against a fixed difficulty, 
 
 If you succeed at a combat check, subtract one HP from the enemy. When taking damage, you may reduce the Body score instead of HP. Any subsequent Body contests use the current score. When Body or HP reach zero, death occurs. Heal HP at a rate one per eight hours of rest, one Body at a rate of one per day.
 
-## Gear and Loot
+## Gear and Loot.
 
 When you use a piece of gear intended to perform a particular task, you may reroll one die once. Dice are then compared again to determine the outcome of the contest. Characters can only benefit from one piece of gear, weapon, or armor per check and are only allowed to reroll one die once per check. Note that in combat it is assumed all are properly armed/armored and this rule would not be applicable.
 
 ## Find good clichés.
 
-*by roberto bisceglie - [zeruhur.space](https://zeruhur.space)
-*based on so1um 0.6 by matt jackson*
-*oracle system from “Recluse” by graven utterance*
-*twist and next scene mechanics from tiny solitary soldiers oracle*
-*licensed under Creative Commons Attribution 4.0*
+## Bestiary.
+
+## Changelog.
+
+
+
+## Credits.
+The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance
+The twist and next scene sections are adapted from the original [*Tiny Solitary Soldiers oracle*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
+The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
