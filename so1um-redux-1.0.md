@@ -17,33 +17,33 @@ If you wish, determine a past, looks, quirks, etc.
     5. Lovable Rogue
     6. Rebellious Spirit
 * Personality
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
-* Asset
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
+    1. Perfectionist
+    2. Helper
+    3. Seeker
+    4. Mediator
+    5. Enthusiast
+    6. Individualist
+* Virtue
+    1. Brave
+    2. Generous
+    3. Witty
+    4. Coscientious
+    5. Temperate
+    6. Loyal
 * Flaw
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
+    1. Quarrelsome
+    2. Melancholy
+    3. Envious
+    4. Mean
+    5. Lazy
+    6. Rude
 * Background
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
+    1. Parental Abandonment
+    2. Retired Badass
+    3. Mysterious Past
+    4. Career-Ending Injury
+    5. Had to Be Sharp
+    6. Dark and Troubled Past
 
 ## Determine goals & the first scene.
 
@@ -114,7 +114,7 @@ Roll 2d6 and consult the following lists to determine what kind of twist.
 1st d6
 1. A third party
 2. The hero
-3. A monster
+3. An encounter
 4. A physical event
 5. An emotional event
 6. An object
@@ -208,9 +208,24 @@ When you use a piece of gear intended to perform a particular task, you may rero
 
 ## Changelog.
 
+v1.0 vs. so1um 0.6
 
+* *Create your hero section*: some rewording, striked off the backstory sentence
+* *Flesh out a background*: new section
+* *Determine goals & the first scene* striked off half the text, added the adventure seed generator
+* *Begin asking questions* and *And & But Results* completely replaced by Recluse oracle
+* *Determine the twist*: new section
+* *Ask an open question or get inspired*: new section
+* *Determine the mood of the next scene*: new section
+* *Determine Difficulty*: deleted section, replaced by *Scale up/down Difficulty*. Difficulty scale moved in the *Contests* section
+* *Resolving Combat*: some rewording
+* *Example clichés*: deleted section
+* *Find good clichés*: new section
+* *Example characters*: deleted section
+* *Example monsters*: moved to *Bestiary*
 
 ## Credits.
 The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance
 The twist and next scene sections are adapted from the original [*Tiny Solitary Soldiers oracle*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
 The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
+Archetype and Backstory lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
