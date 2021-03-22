@@ -4,10 +4,10 @@ based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
 
 ## Create your hero.
 
-Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even number are equal to one, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
+Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even numbers are equal to 1, odds are equal to 0, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
 
 # Flesh out a background.
-If you wish, determine a past, looks, quirks, etc.
+When playing alone, it can be helpful to start with the story to define your character's background in detail. The following lists will help you with this task. Roll on each or choose the one you prefer.
 
 * Archetype
     1. The Paragon
@@ -204,11 +204,144 @@ When you use a piece of gear intended to perform a particular task, you may rero
 
 ## Find good clichés.
 
+## The big clichés list.
+Rhe following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
+
+Absent-Minded Professor
+Accidental Pervert
+Action Hero
+Martial Artist
+Amoral Attorney
+Angry Man
+Angry Chef
+Ax-Crazy
+Badass Normal
+Barbarian
+The Bard 
+Battle Butler 
+The Berserker
+Best Served Cold
+Big Eater
+Blood Knight
+Bounty Hunter
+Bruce Lee
+Bumbling Sidekick
+Casanova
+The Charmer
+The Cheerleader
+Chick Magnet
+Childhood Friend
+Church Militant
+City Mouse
+Class Clown
+Cloudcuckoolander
+The Confidant
+Control Freak
+Cosmic Plaything
+Cowboy Cop
+Crazy Awesome
+Crazy Survivalist
+Crossdresser
+Crouching Moron, Hidden Badass
+Cute Bruiser
+Cute Mute
+Damsel Errant
+Danger Deadpan
+Dark-Skinned Redhead
+Death Seeker
+Deceptive Disciple
+Defector from Decadence
+Dirty Coward
+The Ditz
+Brainless Beauty
+Genius Ditz
+Idiot Savant
+Upper-Class Twit
+Dumb Muscle
+Dogged Nice Guy
+Double Agent
+Dream People
+Drill Sergeant Nasty
+Dr. Jerk
+The Eeyore
+Erudite Stoner
+Ethnic Magician
+The Everyman
+Fake Ultimate Hero
+False Prophet
+Farmer's Daughter
+Fat, Sweaty Southerner in a White Suit
+Fille Fatale
+Femme Fatale
+The Fighting Narcissist
+Forest Ranger
+Gadgeteer Genius
+Glory Seeker
+Gold Digger
+Guile Hero
+Handsome Lech
+Half-Human Hybrid
+Half-Identical Twins
+Half-Witted Hillbilly
+Hardboiled Detective
+Head-Turning Beauty
+Heavy Sleeper
+The Hermit
+Human Weapon
+Ignorant of Their Own Ignorance
+Intrepid Merchant
+Kid Hero
+The Klutz
+Knight in Shining Armor
+Know-Nothing Know-It-All
+Lethal Chef
+Literal-Minded
+Living Legend
+Long John Shout-Out
+Lovable Sex Maniac
+Lower-Class Lout
+Mad Scientist
+Masked Luchador
+Master Swordsman
+The Most Wanted
+Mysterious Waif
+Narcissist
+The Nicknamer
+Non-Powered Costumed Hero
+Not with Them for the Money
+Overly Polite Pals
+Peerless Love Interest
+Person of Mass Destruction
+Pint-Sized Powerhouse
+Plucky Comic Relief
+Proud Warrior Race Guy
+The Quarterback
+The Reliable One
+Renaissance Man
+The Rival
+Romantic Runner-Up
+Self-Made Man
+Serial Romeo
+The Scrooge
+The Shrink
+Sickly Neurotic Geek
+Smart Jerk and Nice Moron
+Smooth-Talking Talent Agent
+The Snark Knight
+Spirited Competitor
+Starving Artist
+Tomboy
+True Craftsman
+Wandering Minstrel
+Willing Channeler
+Winged Humanoid
+
 ## Bestiary.
+
 
 ## Changelog.
 
-v1.0 vs. so1um 0.6
+so1um redux v1.0 vs. so1um 0.6
 
 * *Create your hero section*: some rewording, striked off the backstory sentence
 * *Flesh out a background*: new section
@@ -228,4 +361,4 @@ v1.0 vs. so1um 0.6
 The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance
 The twist and next scene sections are adapted from the original [*Tiny Solitary Soldiers oracle*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
 The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
-Archetype and Backstory lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+Archetype,Backstory and the Big Cliché lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
