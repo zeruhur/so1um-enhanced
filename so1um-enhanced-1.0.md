@@ -209,6 +209,9 @@ so1um redux v1.0 vs. so1um 0.6
 
 ## Credits
 The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance
+
 The twist and next scene sections are adapted from the original [*Tiny Solitary Soldiers oracle*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
+
 The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
+
 Archetype,Backstory and the Big Cliché lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
