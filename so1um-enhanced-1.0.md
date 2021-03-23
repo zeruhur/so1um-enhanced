@@ -41,12 +41,12 @@ If circumstances are different, include an additional die in favor of the more l
 
 If the dice are equal a **twist happens**.
 
-Summarizing:
-* highest white die: Yes
-* highest black die: No
-* both 4+: And
-* both 3-: No
-* equal: twist
+Summing up:
+* white die is the highest: **Yes**
+* black die is the highest: **No**
+* Both dice are 4+: **And**
+* Both dice are 3-: **No**
+* Both dice are equal: **Twist**
 
 ## Determine the Twist
 
