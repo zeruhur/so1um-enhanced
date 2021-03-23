@@ -20,11 +20,24 @@ When playing alone, it can be helpful to start with the story to define your cha
 |  5 |   Lovable Rogue   |   Enthusiast  |   Temperate  |    Lazy   |     Had to Be Sharp    |
 |  6 | Rebellious Spirit | Individualist |     Loyal    |    Rude   | Dark and Troubled Past |
 
+## Appearance
+
+This is entirely optional. If you need to determine the physical features of your hero, roll 1d6 on each column of the following table to determine appearance.
+
+| D6 |    Build   |    Skin   |    Face   |   Hair   |  Speech  |   Clothing  |
+|:--:|:----------:|:---------:|:---------:|:--------:|:--------:|:-----------:|
+|  1 |  Athletic  |    Dark   | Elongated |   Bald   |   Blunt  |   Elegant   |
+|  2 |    Short   |   Tanned  |    Soft   |   Long   |  Formal  |  Eccentric  |
+|  3 |   Brawny   |   Rough   |   Round   |   Short  | Whispery | Fashionable |
+|  4 | Statuesque |    Rosy   |   Square  |   Curly  |  Flowery |  Oversized  |
+|  5 |    Stout   | Sunburned |   Sharp   |   Silky  |  Cryptic |  Undersized |
+|  6 |   Scrawny  |    Pale   |   Broken  | Straight |   Slow   |   Foreign   |
+
 ## Determine Goals & The First Scene
 
 Figure out why your character is there and where they are in their story. Imagine a starting point for your adventure. If none comes to mind, roll on each of the following questions to generate a random adventure seed.
 
-| D6 |  Who? <br>The proposer  | What?<br>The mission | Why?<br>The incentive | Where?<br>The target |        How?<br>The seed       | Obstacle?<br>The complication |
+| D6 |  Who?<br>The proposer   | What?<br>The mission | Why?<br>The incentive | Where?<br>The target |        How?<br>The seed       | Obstacle?<br>The complication |
 |:--:|:-----------------------:|:--------------------:|:---------------------:|:--------------------:|:-----------------------------:|:-----------------------------:|
 |  1 |        Authority        |        Rescue        |          Help         |        Person        |        Casual encounter       |           Opposition          |
 |  2 |       Organization      |      Protection      |        Fortune        |         Group        |        Old acquaintance       |           Deception           |
@@ -44,9 +57,9 @@ If the dice are equal a **twist happens**.
 Summing up:
 * white die is the highest: **Yes**
 * black die is the highest: **No**
-* Both dice are 4+: **And**
-* Both dice are 3-: **No**
-* Both dice are equal: **Twist**
+* Both dice are 4+: **...And**
+* Both dice are 3-: **...But**
+* Both dice are equal: **Twist!**
 
 ## Determine the Twist
 
@@ -214,4 +227,6 @@ The twist and next scene sections are adapted from the original [*Tiny Solitary 
 
 The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
 
-Archetype,Backstory and the Big Cliché lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+Appearance table is a stripped down version of Traits tables from [Knave](https://questingbeast.itch.io/knave) by Ben Milton.
+
+Archetype, Backstory and the Big Cliché lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
