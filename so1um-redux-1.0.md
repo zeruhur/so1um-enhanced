@@ -22,48 +22,14 @@ When playing alone, it can be helpful to start with the story to define your cha
 
 Figure out why your character is there and where they are in their story. Imagine a starting point for your adventure. If none comes to mind, roll on each of the following questions to generate a random adventure seed.
 
-* Who? The proposer
-    1. authority
-    2. organization
-    3. ally (friend, relative)
-    4. mentor
-    5. help-seeker
-    6. blackmailer
-* What? The mission
-    1. rescue
-    2. protection
-    3. exploit
-    4. explore
-    5. escape
-    6. pursuit
-* Why? The incentive
-    1. help
-    2. fortune
-    3. coercition
-    4. impulse
-    5. ambition
-    6. revenge
-* Where? The target
-    1. person
-    2. group
-    3. treasure
-    4. location
-    5. mcguffin
-    6. confession
-* How? The seed
-    1. casual encounter
-    2. old acquaintance 
-    3. rumors
-    4. capture
-    5. mishap
-    6. object (map, journal, letter)
-* Obstacle? The complication
-    1. opposition
-    2. deception
-    3. environment
-    4. disguise
-    5. time
-    6. space
+| D6 |  Who? <br>The proposer  | What?<br>The mission | Why?<br>The incentive | Where?<br>The target |        How?<br>The seed       | Obstacle?<br>The complication |
+|:--:|:-----------------------:|:--------------------:|:---------------------:|:--------------------:|:-----------------------------:|:-----------------------------:|
+|  1 |        Authority        |        Rescue        |          Help         |        Person        |        Casual encounter       |           Opposition          |
+|  2 |       Organization      |      Protection      |        Fortune        |         Group        |        Old acquaintance       |           Deception           |
+|  3 | Ally (friend, relative) |        Exploit       |       Coercition      |       Treasure       |             Rumors            |          Environment          |
+|  4 |          Mentor         |        Explore       |        Impulse        |       Location       |            Capture            |            Disguise           |
+|  5 |       Help-seeker       |        Escape        |        Ambition       |       McGuffin       |             Mishap            |              Time             |
+|  6 |       Blackmailer       |        Pursuit       |        Revenge        |      Confession      | Object (map, journal, letter) |             Space             |
 
 ## Begin asking questions.
 
