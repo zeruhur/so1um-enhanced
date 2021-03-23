@@ -48,7 +48,7 @@ Figure out why your character is there and where they are in their story. Imagin
 
 ## Begin asking questions.
 
-To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. Then consult the Oracle: roll 2d6 one white, the other black (or any different colors you like). If white is highstet the answer is **Yes**. If black is highest, the answer is **No**. If both are low (3 or less), add **But** to the answer. If both are high (4 or more), add **And**. **And** amplifies, while **But** mitigates. **No, And** means things went really bad. **No, But** softens the blow a bit. **Yes, But** is successful but with a drawback. **Yes, And** is all kinds of awesome.
+To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. Then consult the Oracle: roll 2d6 one white, the other black (or any different colors you like). If white is the highstet the answer is **Yes**. If black is the highest, the answer is **No**. If both are low (3 or less), add **But** to the answer. If both are high (4 or more), add **And**. **And** amplifies, while **But** mitigates. **No, And** means things went really bad. **No, But** softens the blow a bit. **Yes, But** is successful but with a drawback. **Yes, And** is all kinds of awesome.
 
 If circumstances are different, include an additional die in favor of the more likely outcome when you roll, but only keep the higher die of that color when you compare.
 
@@ -154,10 +154,17 @@ When you use a piece of gear intended to perform a particular task, you may rero
 
 ## How to find Good Clichés
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi eros, id fermentum ex efficitur fermentum. Quisque tincidunt ac metus id aliquet. Nullam faucibus hendrerit nisi ac elementum. Maecenas magna ligula, ullamcorper eu lorem id, ullamcorper aliquam nisl. Etiam maximus justo massa, vel consectetur tellus mattis a. Nulla id quam et purus varius blandit. Praesent quis diam at ipsum laoreet dictum vitae ut nulla. Donec quis consectetur sapien, quis congue massa. Quisque cursus facilisis leo et auctor. Cras feugiat convallis nunc, sit amet commodo libero tempus vel. Mauris nunc turpis, aliquet vel posuere quis, convallis eget augue.
+Clichés are tropes that define your hero. They depend primarily on the setting you use. But the reverse is also true: a cliché can suggest a lot about the game's setting if you don't have ideas on how to get started.
 
-## The Big List of Clichés
-Rhe following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
+A good way to create a character in the absence of inspiration is to rely on random lists (like the Big List of Cliché below), or the random generator (like the one on TV Tropes). Either way randomly generate until a cliché clicks in your mind. At this point the character (and perhaps the setting) has taken shape.
+
+Obviously no one forces you to randomly generate anything (as well as the other generation tables above are only designed as aids in case your mind is "stuck").
+
+A cliché should summarize your character's iconic characteristics such as their profession, their skills, their background and any information that has to do with their past and even their desires and any moral and personal affiliations.
+
+
+### The Big List of Clichés
+The following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
 
 | D66 |               1-2              |                   3-4                  |             5-6             |
 |:---:|:------------------------------:|:--------------------------------------:|:---------------------------:|
@@ -198,9 +205,64 @@ Rhe following list comes to the aid of uninspired players. It contains a selecti
 |  65 |      Dark-Skinned Redhead      |              Human Weapon              |      Willing Channeler      |
 |  66 |          Death Seeker          |     Ignorant of Their Own Ignorance    |       Winged Humanoid       |
 
+
+## Non-player characters.
+Non-player characters follow the same creation rules as heroes, making use of more appropriate clichés, depending on the kind of foe, which can range from the same as the heroes to the classic villain clichés (like *Evil Overlord*, *Mad Scientist*, *Mastermind*, etc.).
+
 ## Bestiary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi eros, id fermentum ex efficitur fermentum. Quisque tincidunt ac metus id aliquet. Nullam faucibus hendrerit nisi ac elementum. Maecenas magna ligula, ullamcorper eu lorem id, ullamcorper aliquam nisl. Etiam maximus justo massa, vel consectetur tellus mattis a. Nulla id quam et purus varius blandit. Praesent quis diam at ipsum laoreet dictum vitae ut nulla. Donec quis consectetur sapien, quis congue massa. Quisque cursus facilisis leo et auctor. Cras feugiat convallis nunc, sit amet commodo libero tempus vel. Mauris nunc turpis, aliquet vel posuere quis, convallis eget augue.
+The following bestiary contains extensive examples covering multiple narrative genres and which can be used as a starting point and comparison to create your own encounters.
+
+### Animals
+**Alligator**
+**Ape**
+**Bear**
+**Boar**
+**Camel**
+**Centipede (giant)**
+**Coyote**
+**Crocodile**
+**Dog**
+**Elefant**
+**Horse**
+**Jackal**
+**Hyena**
+**Leopard**
+**Lion**
+**Lizard (giant)**
+**Rat (giant)**
+**Shark**
+**Snake**
+**Spider**
+**Whale**
+
+
+### Fantasy
+**Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
+**Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
+**Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
+**Squidhead** B:2 M:5 S:4 HP:6 *Mind control, Illusion magic, Madness*  
+**Troll** B:4 M:1 S:2 HP:4 *Regeneration*  
+**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*
+
+## Pulp
+**Cultist** B:1 M2 S:3 HP:1 *Fanatic Worshipper*
+**Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*
+**Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*
+**Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*
+**Policeman** B:2 M:1 S:1 HP:1 *Legal Authority, Revolver*
+**Savage** B:2 M:1 S:2 HP:1 *Hunter/Gatherer, Tribesman*
+**Soldier** B:2 M:1 S:2 HP:1 *Trained in Weapons, Tactician*
+**Ghoul** B:1 M:1 S:1 HP:2 *Darksighter, Flesh Hunter*
+**Golem** B:2 M:1 S:1 HP:6 *Alchemical Construct, Big Moving Statue*
+**Mummy** 
+**Skeleton**
+**Vampire**
+**Werewolf**
+**Yeti**
+**Zombie** 
+
+
 
 ## Changelog
 
