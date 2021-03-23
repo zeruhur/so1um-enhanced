@@ -241,14 +241,12 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Spider**  
 **Whale**  
 
-
 ### Fantasy
 **Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
 **Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
 **Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
 **Squidhead** B:2 M:5 S:4 HP:6 *Mind control, Illusion magic, Madness*  
 **Troll** B:4 M:1 S:2 HP:4 *Regeneration*  
-**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*
 
 ## Pulp
 **Cultist** B:1 M2 S:3 HP:1 *Fanatic Worshipper*  
@@ -265,7 +263,7 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Vampire**  
 **Werewolf**  
 **Yeti**  
-**Zombie**   
+**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection* 
 
 ## Changelog
 
