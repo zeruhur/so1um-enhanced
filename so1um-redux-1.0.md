@@ -6,7 +6,7 @@ based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
 
 Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even numbers are equal to 1, odds are equal to 0, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
 
-# Flesh Out a Background
+## Flesh Out a Background
 
 When playing alone, it can be helpful to start with the story to define your character's background in detail. The following table will help you with this task. Roll on each columnn or choose the one you prefer.
 
@@ -138,7 +138,9 @@ If you succeed at a combat check, subtract one HP from the enemy. When taking da
 
 When you use a piece of gear intended to perform a particular task, you may reroll one die once. Dice are then compared again to determine the outcome of the contest. Characters can only benefit from one piece of gear, weapon, or armor per check and are only allowed to reroll one die once per check. Note that in combat it is assumed all are properly armed/armored and this rule would not be applicable.
 
-## Find Good Clichés
+## How to find Good Clichés
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi eros, id fermentum ex efficitur fermentum. Quisque tincidunt ac metus id aliquet. Nullam faucibus hendrerit nisi ac elementum. Maecenas magna ligula, ullamcorper eu lorem id, ullamcorper aliquam nisl. Etiam maximus justo massa, vel consectetur tellus mattis a. Nulla id quam et purus varius blandit. Praesent quis diam at ipsum laoreet dictum vitae ut nulla. Donec quis consectetur sapien, quis congue massa. Quisque cursus facilisis leo et auctor. Cras feugiat convallis nunc, sit amet commodo libero tempus vel. Mauris nunc turpis, aliquet vel posuere quis, convallis eget augue.
 
 ## The Big List of Clichés
 Rhe following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
@@ -184,6 +186,7 @@ Rhe following list comes to the aid of uninspired players. It contains a selecti
 
 ## Bestiary
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi eros, id fermentum ex efficitur fermentum. Quisque tincidunt ac metus id aliquet. Nullam faucibus hendrerit nisi ac elementum. Maecenas magna ligula, ullamcorper eu lorem id, ullamcorper aliquam nisl. Etiam maximus justo massa, vel consectetur tellus mattis a. Nulla id quam et purus varius blandit. Praesent quis diam at ipsum laoreet dictum vitae ut nulla. Donec quis consectetur sapien, quis congue massa. Quisque cursus facilisis leo et auctor. Cras feugiat convallis nunc, sit amet commodo libero tempus vel. Mauris nunc turpis, aliquet vel posuere quis, convallis eget augue.
 
 ## Changelog
 
