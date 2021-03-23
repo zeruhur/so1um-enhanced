@@ -207,134 +207,44 @@ When you use a piece of gear intended to perform a particular task, you may rero
 ## The big clichés list.
 Rhe following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
 
-Absent-Minded Professor
-Accidental Pervert
-Action Hero
-Martial Artist
-Amoral Attorney
-Angry Man
-Angry Chef
-Ax-Crazy
-Badass Normal
-Barbarian
-The Bard 
-Battle Butler 
-The Berserker
-Best Served Cold
-Big Eater
-Blood Knight
-Bounty Hunter
-Bruce Lee
-Bumbling Sidekick
-Casanova
-The Charmer
-The Cheerleader
-Chick Magnet
-Childhood Friend
-Church Militant
-City Mouse
-Class Clown
-Cloudcuckoolander
-The Confidant
-Control Freak
-Cosmic Plaything
-Cowboy Cop
-Crazy Awesome
-Crazy Survivalist
-Crossdresser
-Crouching Moron, Hidden Badass
-Cute Bruiser
-Cute Mute
-Damsel Errant
-Danger Deadpan
-Dark-Skinned Redhead
-Death Seeker
-Deceptive Disciple
-Defector from Decadence
-Dirty Coward
-The Ditz
-Brainless Beauty
-Genius Ditz
-Idiot Savant
-Upper-Class Twit
-Dumb Muscle
-Dogged Nice Guy
-Double Agent
-Dream People
-Drill Sergeant Nasty
-Dr. Jerk
-The Eeyore
-Erudite Stoner
-Ethnic Magician
-The Everyman
-Fake Ultimate Hero
-False Prophet
-Farmer's Daughter
-Fat, Sweaty Southerner in a White Suit
-Fille Fatale
-Femme Fatale
-The Fighting Narcissist
-Forest Ranger
-Gadgeteer Genius
-Glory Seeker
-Gold Digger
-Guile Hero
-Handsome Lech
-Half-Human Hybrid
-Half-Identical Twins
-Half-Witted Hillbilly
-Hardboiled Detective
-Head-Turning Beauty
-Heavy Sleeper
-The Hermit
-Human Weapon
-Ignorant of Their Own Ignorance
-Intrepid Merchant
-Kid Hero
-The Klutz
-Knight in Shining Armor
-Know-Nothing Know-It-All
-Lethal Chef
-Literal-Minded
-Living Legend
-Long John Shout-Out
-Lovable Sex Maniac
-Lower-Class Lout
-Mad Scientist
-Masked Luchador
-Master Swordsman
-The Most Wanted
-Mysterious Waif
-Narcissist
-The Nicknamer
-Non-Powered Costumed Hero
-Not with Them for the Money
-Overly Polite Pals
-Peerless Love Interest
-Person of Mass Destruction
-Pint-Sized Powerhouse
-Plucky Comic Relief
-Proud Warrior Race Guy
-The Quarterback
-The Reliable One
-Renaissance Man
-The Rival
-Romantic Runner-Up
-Self-Made Man
-Serial Romeo
-The Scrooge
-The Shrink
-Sickly Neurotic Geek
-Smart Jerk and Nice Moron
-Smooth-Talking Talent Agent
-The Snark Knight
-Spirited Competitor
-Starving Artist
-Tomboy
-True Craftsman
-Wandering Minstrel
-Willing Channeler
-Winged Humanoid
+| D66 |               1-2              |                   3-4                  |             5-6             |
+|:---:|:------------------------------:|:--------------------------------------:|:---------------------------:|
+|  11 |     Absent-Minded Professor    |           Deceptive Disciple           |      Intrepid Merchant      |
+|  12 |           Action Hero          |         Defector from Decadence        |           Kid Hero          |
+|  13 |         Martial Artist         |              Dirty Coward              |          The Klutz          |
+|  14 |         Amoral Attorney        |                The Ditz                |   Knight in Shining Armor   |
+|  15 |            Angry Man           |            Brainless Beauty            |   Know-Nothing Know-It-All  |
+|  16 |            Ax-Crazy            |               Genius Ditz              |        Literal-Minded       |
+|  21 |          Badass Normal         |              Idiot Savant              |        Living Legend        |
+|  22 |            Barbarian           |            Upper-Class Twit            |      Lovable Sex Maniac     |
+|  23 |            The Bard            |               Dumb Muscle              |        Mad Scientist        |
+|  24 |          The Berserker         |             Dogged Nice Guy            |       Masked Luchador       |
+|  25 |        Best Served Cold        |              Double Agent              |       Master Swordsman      |
+|  26 |            Big Eater           |              Dream People              |       The Most Wanted       |
+|  31 |          Blood Knight          |                Dr. Jerk                |          Narcissist         |
+|  32 |          Bounty Hunter         |               The Eeyore               |        The Nicknamer        |
+|  33 |            Bruce Lee           |             Erudite Stoner             |  Non-Powered Costumed Hero  |
+|  34 |            Casanova            |             Ethnic Magician            |      Overly Polite Pals     |
+|  35 |           The Charmer          |              The Everyman              |  Person of Mass Destruction |
+|  36 |         The Cheerleader        |           Fake Ultimate Hero           |    Proud Warrior Race Guy   |
+|  41 |          Chick Magnet          |              False Prophet             |       The Quarterback       |
+|  42 |        Childhood Friend        |            Farmer's Daughter           |       The Reliable One      |
+|  43 |         Church Militant        | Fat, Sweaty Southerner in a White Suit |       Renaissance Man       |
+|  44 |        Cloudcuckoolander       |              Fille Fatale              |          The Rival          |
+|  45 |          The Confidant         |              Femme Fatale              |      Romantic Runner-Up     |
+|  46 |          Control Freak         |         The Fighting Narcissist        |        Self-Made Man        |
+|  51 |        Cosmic Plaything        |              Forest Ranger             |         Serial Romeo        |
+|  52 |           Cowboy Cop           |            Gadgeteer Genius            |         The Scrooge         |
+|  53 |          Crazy Awesome         |              Glory Seeker              |     Sickly Neurotic Geek    |
+|  54 |        Crazy Survivalist       |               Gold Digger              |  Smart Jerk and Nice Moron  |
+|  55 |          Crossdresser          |               Guile Hero               | Smooth-Talking Talent Agent |
+|  56 | Crouching Moron, Hidden Badass |            Half-Human Hybrid           |     Spirited Competitor     |
+|  61 |          Cute Bruiser          |          Hardboiled Detective          |       Starving Artist       |
+|  62 |            Cute Mute           |           Head-Turning Beauty          |            Tomboy           |
+|  63 |           The Errant           |              Heavy Sleeper             |        True Craftsman       |
+|  64 |         Danger Deadpan         |               The Hermit               |      Wandering Minstrel     |
+|  65 |      Dark-Skinned Redhead      |              Human Weapon              |      Willing Channeler      |
+|  66 |          Death Seeker          |     Ignorant of Their Own Ignorance    |       Winged Humanoid       |
 
 ## Bestiary.
 
