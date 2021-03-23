@@ -66,32 +66,32 @@ Interpret the two-word sentence in the context of the current scene. Twists will
 
 Sometimes a closed **Yes/No** question it won't be enough. To ask an open question, roll once each of the following lists (roll at least on verbs and nouns, adjectives are optional).
 
-| Verbs | 1        | 2      | 3       | 4        | 5       | 6       |
-|-------|----------|--------|---------|----------|---------|---------|
-| 1     | inject   | pass   | own     | divide   | bury    | borrow  |
-| 2     | continue | learn  | ask     | multiply | receive | imagine |
-| 3     | develop  | behave | replace | damage   | collect | turn    |
-| 4     | share    | hand   | play    | explain  | improve | cough   |
-| 5     | face     | expand | found   | gather   | prefer  | belong  |
-| 6     | trip     | want   | miss    | dry      | employ  | destroy |
+| Verbs |     1    |    2   |    3    |     4    |    5    |    6    |
+|:-----:|:--------:|:------:|:-------:|:--------:|:-------:|:-------:|
+|   1   |  inject  |  pass  |   own   |  divide  |   bury  |  borrow |
+|   2   | continue |  learn |   ask   | multiply | receive | imagine |
+|   3   |  develop | behave | replace |  damage  | collect |   turn  |
+|   4   |   share  |  hand  |   play  |  explain | improve |  cough  |
+|   5   |   face   | expand |  found  |  gather  |  prefer |  belong |
+|   6   |   trip   |  want  |   miss  |    dry   |  employ | destroy |
 
-| Nouns | 1          | 2       | 3      | 4      | 5         | 6        |
-|-------|------------|---------|--------|--------|-----------|----------|
-| 1     | cause      | stage   | change | verse  | thrill    | spot     |
-| 2     | front      | event   | home   | bag    | measure   | birth    |
-| 3     | prose      | motion  | trade  | memory | chance    | drop     |
-| 4     | instrument | friend  | talk   | liquid | fact      | price    |
-| 5     | word       | morning | edge   | room   | system    | camp     |
-| 6     | key        | income  | use    | humor  | statement | argument |
+| Nouns |      1     |    2    |    3   |    4   |     5     |     6    |
+|:-----:|:----------:|:-------:|:------:|:------:|:---------:|:--------:|
+|   1   |    cause   |  stage  | change |  verse |   thrill  |   spot   |
+|   2   |    front   |  event  |  home  |   bag  |  measure  |   birth  |
+|   3   |    prose   |  motion |  trade | memory |   chance  |   drop   |
+|   4   | instrument |  friend |  talk  | liquid |    fact   |   price  |
+|   5   |    word    | morning |  edge  |  room  |   system  |   camp   |
+|   6   |     key    |  income |   use  |  humor | statement | argument |
 
-| Adjectives | 1           | 2             | 3         | 4             | 5           | 6         |
-|------------|-------------|---------------|-----------|---------------|-------------|-----------|
-| 1          | frequent    | faulty        | obscene   | scarce        | rigid       | long-term |
-| 2          | ethereal    | sophisticated | rightful  | knowledgeable | astonishing | ordinary  |
-| 3          | descriptive | insidious     | poor      | proud         | reflective  | amusing   |
-| 4          | silky       | worthless     | fixed     | loose         | willing     | cold      |
-| 5          | quiet       | stormy        | spooky    | delirious     | innate      | late      |
-| 6          | magnificent | arrogant      | unhealthy | enormous      | truculent   | charming  |
+| Adjectives |      1      |       2       |     3     |       4       |      5      |     6     |
+|:----------:|:-----------:|:-------------:|:---------:|:-------------:|:-----------:|:---------:|
+|      1     |   frequent  |     faulty    |  obscene  |     scarce    |    rigid    | long-term |
+|      2     |   ethereal  | sophisticated |  rightful | knowledgeable | astonishing |  ordinary |
+|      3     | descriptive |   insidious   |    poor   |     proud     |  reflective |  amusing  |
+|      4     |    silky    |   worthless   |   fixed   |     loose     |   willing   |    cold   |
+|      5     |    quiet    |     stormy    |   spooky  |   delirious   |    innate   |    late   |
+|      6     | magnificent |    arrogant   | unhealthy |    enormous   |  truculent  |  charming |
 
 ## Determine the mood of the next scene.
 
