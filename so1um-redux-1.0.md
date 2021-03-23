@@ -7,43 +7,16 @@ based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
 Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even numbers are equal to 1, odds are equal to 0, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
 
 # Flesh out a background.
-When playing alone, it can be helpful to start with the story to define your character's background in detail. The following lists will help you with this task. Roll on each or choose the one you prefer.
+When playing alone, it can be helpful to start with the story to define your character's background in detail. The following table will help you with this task. Roll on each columnn or choose the one you prefer.
 
-* Archetype
-    1. The Paragon
-    2. The Cynic
-    3. The Fool
-    4. The Idealist
-    5. Lovable Rogue
-    6. Rebellious Spirit
-* Personality
-    1. Perfectionist
-    2. Helper
-    3. Seeker
-    4. Mediator
-    5. Enthusiast
-    6. Individualist
-* Virtue
-    1. Brave
-    2. Generous
-    3. Witty
-    4. Coscientious
-    5. Temperate
-    6. Loyal
-* Flaw
-    1. Quarrelsome
-    2. Melancholy
-    3. Envious
-    4. Mean
-    5. Lazy
-    6. Rude
-* Background
-    1. Parental Abandonment
-    2. Retired Badass
-    3. Mysterious Past
-    4. Career-Ending Injury
-    5. Had to Be Sharp
-    6. Dark and Troubled Past
+| D6 |     Archetype     |  Personality  |    Virtue    |    Flaw   |       Background       |
+|:--:|:-----------------:|:-------------:|:------------:|:---------:|:----------------------:|
+|  1 |    The Paragon    | Perfectionist |     Brave    | Bellicose |  Parental Abandonment  |
+|  2 |     The Cynic     |     Helper    |   Generous   |   Gloomy  |     Retired Badass     |
+|  3 |      The Fool     |     Seeker    |     Witty    |  Envious  |     Mysterious Past    |
+|  4 |    The Idealist   |    Mediator   | Coscientious |    Mean   |  Career-Ending Injury  |
+|  5 |   Lovable Rogue   |   Enthusiast  |   Temperate  |    Lazy   |     Had to Be Sharp    |
+|  6 | Rebellious Spirit | Individualist |     Loyal    |    Rude   | Dark and Troubled Past |
 
 ## Determine goals & the first scene.
 
