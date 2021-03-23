@@ -7,6 +7,7 @@ based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
 Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even numbers are equal to 1, odds are equal to 0, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
 
 # Flesh out a background.
+
 When playing alone, it can be helpful to start with the story to define your character's background in detail. The following table will help you with this task. Roll on each columnn or choose the one you prefer.
 
 | D6 |     Archetype     |  Personality  |    Virtue    |    Flaw   |       Background       |
@@ -50,30 +51,22 @@ Summarizing:
 
 Roll 2d6 and consult the following lists to determine what kind of twist. 
 
-1st d6
-1. A third party
-2. The hero
-3. An encounter
-4. A physical event
-5. An emotional event
-6. An object
-
-2nd d6
-1. Appears
-2. Alters the location
-3. Helps the hero
-4. Hinders the hero
-5. Changes the goal
-6. Ends the scene
+| D6 |      First Die     |      Second Die     |
+|:--:|:------------------:|:-------------------:|
+|  1 |    A third party   |       Appears       |
+|  2 |      The hero      | Alters the location |
+|  3 |    An encounter    |    Helps the hero   |
+|  4 |  A physical event  |   Hinders the hero  |
+|  5 | An emotional event |   Changes the goal  |
+|  6 |      An object     |    Ends the scene   |
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
 
 ## Ask an open question or get inspired.
 
-Sometimes a closed **Yes/No** question it won't be enough. To ask an open question, roll once each of the following lists (roll at least on verbs and nouns, adjective are optional).
+Sometimes a closed **Yes/No** question it won't be enough. To ask an open question, roll once each of the following lists (roll at least on verbs and nouns, adjectives are optional).
 
-
-| verbs | 1        | 2      | 3       | 4        | 5       | 6       |
+| Verbs | 1        | 2      | 3       | 4        | 5       | 6       |
 |-------|----------|--------|---------|----------|---------|---------|
 | 1     | inject   | pass   | own     | divide   | bury    | borrow  |
 | 2     | continue | learn  | ask     | multiply | receive | imagine |
@@ -82,7 +75,7 @@ Sometimes a closed **Yes/No** question it won't be enough. To ask an open questi
 | 5     | face     | expand | found   | gather   | prefer  | belong  |
 | 6     | trip     | want   | miss    | dry      | employ  | destroy |
 
-| nouns | 1          | 2       | 3      | 4      | 5         | 6        |
+| Nouns | 1          | 2       | 3      | 4      | 5         | 6        |
 |-------|------------|---------|--------|--------|-----------|----------|
 | 1     | cause      | stage   | change | verse  | thrill    | spot     |
 | 2     | front      | event   | home   | bag    | measure   | birth    |
@@ -91,7 +84,7 @@ Sometimes a closed **Yes/No** question it won't be enough. To ask an open questi
 | 5     | word       | morning | edge   | room   | system    | camp     |
 | 6     | key        | income  | use    | humor  | statement | argument |
 
-| adjectives | 1           | 2             | 3         | 4             | 5           | 6         |
+| Adjectives | 1           | 2             | 3         | 4             | 5           | 6         |
 |------------|-------------|---------------|-----------|---------------|-------------|-----------|
 | 1          | frequent    | faulty        | obscene   | scarce        | rigid       | long-term |
 | 2          | ethereal    | sophisticated | rightful  | knowledgeable | astonishing | ordinary  |
@@ -106,9 +99,11 @@ Once the scene ends in some way (the protagonist's goal is met or failed) take a
 
 At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following:
 
-* 1-3: Dramatic scene
-* 4-5: Quiet Scene
-* 6: Meanwhile…
+|  D6 |   Next Scene   |
+|:---:|:--------------:|
+| 1-3 | Dramatic scene |
+| 4-5 |   Quiet Scene  |
+|  6  |   Meanwhile…   |
 
 A *dramatic scene* does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
 During a *quiet scene* there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
@@ -118,12 +113,14 @@ A *meanwhile scene* that takes place somewhere else than where the hero is. It c
 
 When your character comes into dangerous or risky situations, determine Difficulty (either via narratory license or dice, *see below*). Use dice equal to Body, Mind, or Spirit for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls equal to the Difficulty or higher, you succeed!
 
-1. *Automatic*
-2. *Simple*
-3. *Easy*
-4. *Average*
-5. *Tricky*
-6. *Hard*
+| D6 | Difficulty |
+|:--:|:----------:|
+|  1 |  Automatic |
+|  2 |   Simple   |
+|  3 |    Easy    |
+|  4 |   Average  |
+|  5 |   Tricky   |
+|  6 |    Hard    |
 
 ## Scale up/down Difficulty.
 
