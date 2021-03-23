@@ -211,7 +211,7 @@ The following list comes to the aid of uninspired players. It contains a selecti
 |  66 |          Death Seeker          |     Ignorant of Their Own Ignorance    |       Winged Humanoid       |
 
 
-## Non-player characters.
+## Non-player characters
 Non-player characters follow the same creation rules as heroes, making use of more appropriate clichés, depending on the kind of foe, which can range from the same as the heroes to the classic villain clichés (like *Evil Overlord*, *Mad Scientist*, *Mastermind*, etc.).
 
 ## Bestiary
@@ -219,27 +219,27 @@ Non-player characters follow the same creation rules as heroes, making use of mo
 The following bestiary contains extensive examples covering multiple narrative genres and which can be used as a starting point and comparison to create your own encounters.
 
 ### Animals
-**Alligator**
-**Ape**
-**Bear**
-**Boar**
-**Camel**
-**Centipede (giant)**
-**Coyote**
-**Crocodile**
-**Dog**
-**Elefant**
-**Horse**
-**Jackal**
-**Hyena**
-**Leopard**
-**Lion**
-**Lizard (giant)**
-**Rat (giant)**
-**Shark**
-**Snake**
-**Spider**
-**Whale**
+**Alligator**  
+**Ape**  
+**Bear**  
+**Boar**  
+**Camel**  
+**Centipede (giant)**  
+**Coyote**  
+**Crocodile**  
+**Dog**  
+**Elefant**  
+**Horse**  
+**Jackal**  
+**Hyena**  
+**Leopard**  
+**Lion**  
+**Lizard (giant)**  
+**Rat (giant)**  
+**Shark**  
+**Snake**  
+**Spider**  
+**Whale**  
 
 
 ### Fantasy
@@ -251,21 +251,21 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*
 
 ## Pulp
-**Cultist** B:1 M2 S:3 HP:1 *Fanatic Worshipper*
-**Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*
-**Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*
-**Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*
-**Policeman** B:2 M:1 S:1 HP:1 *Legal Authority, Revolver*
-**Savage** B:2 M:1 S:2 HP:1 *Hunter/Gatherer, Tribesman*
-**Soldier** B:2 M:1 S:2 HP:1 *Trained in Weapons, Tactician*
-**Ghoul** B:1 M:1 S:1 HP:2 *Darksighter, Flesh Hunter*
-**Golem** B:2 M:1 S:1 HP:6 *Alchemical Construct, Big Moving Statue*
-**Mummy** 
-**Skeleton**
-**Vampire**
-**Werewolf**
-**Yeti**
-**Zombie** 
+**Cultist** B:1 M2 S:3 HP:1 *Fanatic Worshipper*  
+**Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*  
+**Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*  
+**Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*  
+**Policeman** B:2 M:1 S:1 HP:1 *Legal Authority, Revolver*  
+**Savage** B:2 M:1 S:2 HP:1 *Hunter/Gatherer, Tribesman*  
+**Soldier** B:2 M:1 S:2 HP:1 *Trained in Weapons, Tactician*  
+**Ghoul** B:1 M:1 S:1 HP:2 *Darksighter, Flesh Hunter*  
+**Golem** B:2 M:1 S:1 HP:6 *Alchemical Construct, Big Moving Statue*  
+**Mummy**   
+**Skeleton**  
+**Vampire**  
+**Werewolf**  
+**Yeti**  
+**Zombie**   
 
 ## Changelog
 
@@ -284,8 +284,10 @@ so1um redux v1.0 vs. so1um 0.6
 * *Example clichés*: deleted section
 * *The Big List of Clichés*: new section  (see credits)
 * *Find good clichés*: new section
+* *Non-player characters*: new section
 * *Example characters*: deleted section
 * *Example monsters*: moved to *Bestiary*
+* *Bestiary*: new section
 
 ## Credits
 
