@@ -1,7 +1,14 @@
 # so1um enhanced
-CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)
-
+CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)  
 Based on so1um 0.6 CC-BY-4.0 by Matt Jackson - [msjx.org](https://msjx.org)
+
+## Introduction
+When I started getting interested in RPGs again, years after a bad burnout, I didn't have the opportunity to play in groups and therefore my attention was focused on solitaire systems.  
+Of all the rules-light systems discovered on the net, so1um proved to be the one that best suited my taste and my conception of the game.  
+It elegantly combines the mechanics of the classic D6 systems with the Risus clichés, guaranteeing the transversality that I have sought so much. It doesn't claim to be a full or crunchy system and that is its strong point.  
+Matt Jackson version 0.6 is perfectly playable and complete on its own, but I have a soft spot for random prompt generation, being a creative with little imagination.  
+In addition, the oracle, descendant of FU RPG, had been honed by Graven Utterance. I therefore decided to replace it and also to reintegrate some tools of Tiny Solitary Soldier, which so1um was inspired by in turn.  
+So this version more than a revision is a collection of additional materials to support the poor of imagination like myself. I hope you may find it useful.
 
 ## Create Your Hero
 
@@ -55,8 +62,8 @@ If circumstances are different, include an additional die in favor of the more l
 If the dice are equal a **twist happens**.
 
 Summing up:
-* white die is the highest: **Yes**
-* black die is the highest: **No**
+* White die is the highest: **Yes**
+* Black die is the highest: **No**
 * Both dice are 4+: **...And**
 * Both dice are 3-: **...But**
 * Both dice are equal: **Twist!**
@@ -109,9 +116,7 @@ Sometimes a closed **Yes/No** question it won't be enough. To answer an open que
 
 ## Determine the mood of the next scene
 
-Once the scene ends in some way (the protagonist's goal is met or failed) take a breath, and roll the next scene:
-
-At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following:
+At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
 
 |  D6 |   Next Scene   |
 |:---:|:--------------:|
@@ -119,9 +124,9 @@ At the end of the current scene, you may need to determine the general mood of t
 | 4-5 |   Quiet Scene  |
 |  6  |   Meanwhile…   |
 
-A *dramatic scene* does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
-During a *quiet scene* there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
-A *meanwhile scene* that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
+A **dramatic scene** does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
+During a **quiet scene** there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
+A **meanwhile scene** that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
 
 ## Contests
 
@@ -261,8 +266,6 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Werewolf**
 **Yeti**
 **Zombie** 
-
-
 
 ## Changelog
 
