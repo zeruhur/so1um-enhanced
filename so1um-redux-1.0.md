@@ -2,11 +2,11 @@
 CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)
 based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
 
-## Create your hero.
+## Create Your Hero
 
 Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Even numbers are equal to 1, odds are equal to 0, sum them up. If you score zero, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6 and gain another one cliché for each even number rolled. 
 
-# Flesh out a background.
+# Flesh Out a Background
 
 When playing alone, it can be helpful to start with the story to define your character's background in detail. The following table will help you with this task. Roll on each columnn or choose the one you prefer.
 
@@ -19,7 +19,7 @@ When playing alone, it can be helpful to start with the story to define your cha
 |  5 |   Lovable Rogue   |   Enthusiast  |   Temperate  |    Lazy   |     Had to Be Sharp    |
 |  6 | Rebellious Spirit | Individualist |     Loyal    |    Rude   | Dark and Troubled Past |
 
-## Determine goals & the first scene.
+## Determine Goals & The First Scene
 
 Figure out why your character is there and where they are in their story. Imagine a starting point for your adventure. If none comes to mind, roll on each of the following questions to generate a random adventure seed.
 
@@ -47,7 +47,7 @@ Summarizing:
 * both 3-: No
 * equal: twist
 
-## Determine the twist.
+## Determine the Twist
 
 Roll 2d6 and consult the following lists to determine what kind of twist. 
 
@@ -62,7 +62,7 @@ Roll 2d6 and consult the following lists to determine what kind of twist.
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
 
-## Ask an open question or get inspired.
+## Ask an Open Question or Get Inspired
 
 Sometimes a closed **Yes/No** question it won't be enough. To ask an open question, roll once each of the following lists (roll at least on verbs and nouns, adjectives are optional).
 
@@ -93,7 +93,7 @@ Sometimes a closed **Yes/No** question it won't be enough. To ask an open questi
 |      5     |    quiet    |     stormy    |   spooky  |   delirious   |    innate   |    late   |
 |      6     | magnificent |    arrogant   | unhealthy |    enormous   |  truculent  |  charming |
 
-## Determine the mood of the next scene.
+## Determine the mood of the next scene
 
 Once the scene ends in some way (the protagonist's goal is met or failed) take a breath, and roll the next scene:
 
@@ -109,7 +109,7 @@ A *dramatic scene* does not break the tension of the previous scene but carries 
 During a *quiet scene* there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
 A *meanwhile scene* that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
 
-## Contests.
+## Contests
 
 When your character comes into dangerous or risky situations, determine Difficulty (either via narratory license or dice, *see below*). Use dice equal to Body, Mind, or Spirit for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls equal to the Difficulty or higher, you succeed!
 
@@ -122,25 +122,25 @@ When your character comes into dangerous or risky situations, determine Difficul
 |  5 |   Tricky   |
 |  6 |    Hard    |
 
-## Scale up/down Difficulty.
+## Scale Up/Down Difficulty
 
 Difficulty is situational and it is determined by events in the scene. There are cases in which, however, the difficulty could be different from that expected. Roll 2d6: if both are even, Diffulty scale up of one position, if both are odd Diffulty scale down, else Difficulty is as expected.
 
-## Resolving Combat.
+## Resolving Combat
 
 Combats are like a contests, but instead of rolling against a fixed difficulty, the opponents roll against each other. Each side rolls dice equal to applicable stats (adding one die if a cliché applies) and then compare results. The **HIGH** roll wins. If the die rolls are tie, the attack is a draw and no damage is caused.
 
-## Taking/Causing/Healing Damage.
+## Taking/Causing/Healing Damage
 
 If you succeed at a combat check, subtract one HP from the enemy. When taking damage, you may reduce the Body score instead of HP. Any subsequent Body contests use the current score. When Body or HP reach zero, death occurs. Heal HP at a rate one per eight hours of rest, one Body at a rate of one per day.
 
-## Gear and Loot.
+## Gear and Loot
 
 When you use a piece of gear intended to perform a particular task, you may reroll one die once. Dice are then compared again to determine the outcome of the contest. Characters can only benefit from one piece of gear, weapon, or armor per check and are only allowed to reroll one die once per check. Note that in combat it is assumed all are properly armed/armored and this rule would not be applicable.
 
-## Find good clichés.
+## Find Good Clichés
 
-## The big clichés list.
+## The Big List of Clichés
 Rhe following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
 
 | D66 |               1-2              |                   3-4                  |             5-6             |
@@ -182,10 +182,10 @@ Rhe following list comes to the aid of uninspired players. It contains a selecti
 |  65 |      Dark-Skinned Redhead      |              Human Weapon              |      Willing Channeler      |
 |  66 |          Death Seeker          |     Ignorant of Their Own Ignorance    |       Winged Humanoid       |
 
-## Bestiary.
+## Bestiary
 
 
-## Changelog.
+## Changelog
 
 so1um redux v1.0 vs. so1um 0.6
 
@@ -203,7 +203,7 @@ so1um redux v1.0 vs. so1um 0.6
 * *Example characters*: deleted section
 * *Example monsters*: moved to *Bestiary*
 
-## Credits.
+## Credits
 The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance
 The twist and next scene sections are adapted from the original [*Tiny Solitary Soldiers oracle*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
 The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
