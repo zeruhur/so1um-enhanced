@@ -1,7 +1,7 @@
 # so1um enhanced
 CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)
 
-Based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
+Based on so1um 0.6 CC-BY-4.0 by Matt Jackson - [msjx.org](https://msjx.org)
 
 ## Create Your Hero
 
@@ -65,7 +65,7 @@ Summing up:
 
 Roll 2d6 and consult the following lists to determine what kind of twist. 
 
-| D6 |      First Die     |      Second Die     |
+| D6 |      Subject       |        Action       |
 |:--:|:------------------:|:-------------------:|
 |  1 |    A third party   |       Appears       |
 |  2 |      The hero      | Alters the location |
@@ -78,7 +78,7 @@ Interpret the two-word sentence in the context of the current scene. Twists will
 
 ## Ask an Open Question or Get Inspired
 
-Sometimes a closed **Yes/No** question it won't be enough. To ask an open question, roll once each of the following lists (roll at least on verbs and nouns, adjectives are optional).
+Sometimes a closed **Yes/No** question it won't be enough. To answer an open question, roll 1d6 once on each of the following tables (at least verbs and nouns, adjectives are optional).
 
 | Verbs |     1    |    2   |    3    |     4    |    5    |    6    |
 |:-----:|:--------:|:------:|:-------:|:--------:|:-------:|:-------:|
@@ -207,26 +207,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi er
 so1um redux v1.0 vs. so1um 0.6
 
 * *Create your hero section*: some rewording, striked off the backstory sentence
-* *Flesh out a background*: new section
-* *Determine goals & the first scene* striked off half the text, added the adventure seed generator
-* *Begin asking questions* and *And & But Results* completely replaced by Recluse oracle
-* *Determine the twist*: new section
+* *Flesh out a background*: new section (see credits)
+* *Appearance*: new section (see credits)
+* *Determine goals & the first scene* striked off half the text, added the adventure seed generator (see credits)
+* *Begin asking questions* and *And & But Results* completely replaced by Recluse oracle (see credits)
+* *Determine the twist*: new section  (see credits)
 * *Ask an open question or get inspired*: new section
-* *Determine the mood of the next scene*: new section
+* *Determine the mood of the next scene*: new section  (see credits)
 * *Determine Difficulty*: deleted section, replaced by *Scale up/down Difficulty*. Difficulty scale moved in the *Contests* section
 * *Resolving Combat*: some rewording
 * *Example clichés*: deleted section
+* *The Big List of Clichés*: new section  (see credits)
 * *Find good clichés*: new section
 * *Example characters*: deleted section
 * *Example monsters*: moved to *Bestiary*
 
 ## Credits
-The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance
 
-The twist and next scene sections are adapted from the original [*Tiny Solitary Soldiers oracle*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
-
-The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy
-
-Appearance table is a stripped down version of Traits tables from [Knave](https://questingbeast.itch.io/knave) by Ben Milton.
-
-Archetype, Backstory and the Big Cliché lists are taken from TV Tropes and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+This ruleset is mainly a recollection of previously published works under free license.  
+Below are the sources of all parts taken from other material:
+* The oracle system is taken from [*Recluse*](https://gravenutterance.itch.io/recluse) by Graven Utterance released under Creative Commons Attribution 4.0 International License.
+* The twist and next scene sections are adapted from the oracle by the now defunct [*Tiny Solitary Soldiers*](https://web.archive.org/web/20201112030804/http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html).
+* The "Determine goals & the first scene" section is adapted from the Adventure Seeds chapter of [*SoloistRPG*](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) by chrisatthestudy.
+* Appearance table is a stripped down version of Traits tables from [Knave](https://questingbeast.itch.io/knave) by Ben Milton released under Creative Commons Attribution 4.0 International License.
+* Archetype, Backstory and the Big Cliché lists are taken from [TV Tropes](https://tvtropes.org/) and are under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
