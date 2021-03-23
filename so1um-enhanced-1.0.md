@@ -269,8 +269,7 @@ The following bestiary contains extensive examples covering multiple narrative g
 
 ## Changelog
 
-so1um redux v1.0 vs. so1um 0.6
-
+so1um 0.6 to so1um enhanced:
 * *Create your hero section*: some rewording, striked off the backstory sentence
 * *Flesh out a background*: new section (see credits)
 * *Appearance*: new section (see credits)
