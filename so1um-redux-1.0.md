@@ -1,4 +1,4 @@
-# so1um redux
+# so1um enhanced
 CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)
 
 Based on so1um 0.6 by Matt Jackson - [msjx.org](https://msjx.org)
