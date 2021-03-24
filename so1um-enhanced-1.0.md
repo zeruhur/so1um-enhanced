@@ -272,14 +272,14 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*  
 **Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*  
 **Golem** B:5 M:1 S:1 HP:7 *Alchemical Construct, Big Moving Statue*  
-**Mummy**   
+**Mummy** B:5 M:3 S:2 HP:5 *Once a King, Living Corpse*  
 **Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*  
 **Policeman** B:2 M:1 S:1 HP:1 *Legal Authority, Revolver*  
 **Savage** B:2 M:1 S:2 HP:1 *Hunter/Gatherer, Tribesman*  
 **Soldier** B:2 M:1 S:2 HP:1 *Trained in Weapons, Tactician*  
-**Vampire**  
-**Werewolf**  
-**Yeti**  
+**Vampire** B:5 M:4 S:4 HP:7 *Son of Night, Blood Craver*  
+**Werewolf**  B:3 M:1 S:2 HP:4 *Moon Sick, Shape Shifter*  
+**Yeti**  B:4 M:2 S:3 HP:6 *Abominable Snowman, High-Altitude Climber*  
 **Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*  
 
 ### Sci-fi
