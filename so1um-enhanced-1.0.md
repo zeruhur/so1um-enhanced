@@ -238,32 +238,63 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Rat (giant)**  
 **Shark**  
 **Snake**  
-**Spider**  
-**Whale**  
+**Spider (giant)**  
 
 ### Fantasy
-**Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
+
 **Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
 **Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
+**Dragon** 
+**Gelatinous Cube**
+**Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
+**Gnoll** 
+**Lich**
+**Mimic** 
+**Skeleton** 
 **Squidhead** B:2 M:5 S:4 HP:6 *Mind control, Illusion magic, Madness*  
 **Troll** B:4 M:1 S:2 HP:4 *Regeneration*  
+**Wraith**
 
-## Pulp
-**Cultist** B:1 M2 S:3 HP:1 *Fanatic Worshipper*  
-**Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*  
+### Lovecratian
+**Chtonian** B:4 M:4 S:3 HP:7 *Mind Net, Tentacle Lash*  
+**Cultist** B:1 M:2 S:3 HP:1 *Fanatic Worshipper*   
+**Deep One** B:2 M:2 S:2 HP:1 *Clawed Slasher, Acquatic Creature*  
+**Elder Thing** B:2 M:4 S:3 HP:4 *Radial Simmetry, Otherworldly Winged Creature*  
+**Ghoul** B:1 M:1 S:1 HP:4 *Darksighter, Flesh Hunter*  
+**Hound of Tindalos**  B:3 M:4 S:2 HP:3 *Otherworldly Gaze, Alien Howlh*  
+**Mi-Go** B:1 M:3 S:2 HP:2 *Fungoid Crustacean, Amoral Scientist*  
+**Shoggoth** B:3 M:0 S:1 HP:4  *Amorphous Blob, Mindless Devourer*  
+**Star Spawn** B:3 M:4 S:3 HP:8  *Abyss Dweller, Eldritch Baiter*  
+**Yithian** B:3 M:5 S:3 HP:5 *Time Traveller, Toxic Spores*  
+
+### Pulp Adventure
+ 
 **Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*  
 **Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*  
+**Golem** B:5 M:1 S:1 HP:7 *Alchemical Construct, Big Moving Statue*  
+**Mummy**   
+**Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*  
 **Policeman** B:2 M:1 S:1 HP:1 *Legal Authority, Revolver*  
 **Savage** B:2 M:1 S:2 HP:1 *Hunter/Gatherer, Tribesman*  
 **Soldier** B:2 M:1 S:2 HP:1 *Trained in Weapons, Tactician*  
-**Ghoul** B:1 M:1 S:1 HP:2 *Darksighter, Flesh Hunter*  
-**Golem** B:2 M:1 S:1 HP:6 *Alchemical Construct, Big Moving Statue*  
-**Mummy**   
-**Skeleton**  
 **Vampire**  
 **Werewolf**  
 **Yeti**  
-**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection* 
+**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*  
+
+### Sci-fi
+
+**Arachnid** B:3 M:2 S:2 HP:8  *Chitin Hide, Octopodal*  
+**Black Destroyer** B:4 M:3 S:3 HP: 7 *Apex Predator, Sharp Mind*  
+**Bug-Eyed Monster** B:4 M:3 S:2 HP:10 *Hungry Alien Monster, Crawler*  
+**Combat Robot**: B:3 M:2 S:1 HP:4 *Rifled Arm, Programmed-to-kill*  
+**Floater** B:1 M:3 S:2 HP:6 *Jelly Creature, Tentacles*  
+**Miner Drone** B:1 M:1 S:1 HP:2 *Drilling Machine, Seek-and-Collect*  
+**Ooze** B:3 M:1 S:1 HP:4 *Toxic Splash, Tendrils*  
+**Pod Plants** B:3 M:1 S:2 HP:4 *Barbed Spines, Poisonous Thorns*  
+**Space Lizard** B:5 M:1 S:3 HP:8 *Formidable Predator, Giant Creature*  
+**Vermid** B:1 M:1 S:1 HP:1 *Pestilent Scavenger, Vacuum Resistant*  
+**Xenomorph** B:5 M:2 S:3 HP: 12 *Killing Machine, Acid Secretions*  
 
 ## Changelog
 
