@@ -1,7 +1,14 @@
 # so1um enhanced
-CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)
-
+CC-BY-4.0 2021 by Roberto Bisceglie - [zeruhur.space](https://zeruhur.space)  
 Based on so1um 0.6 CC-BY-4.0 by Matt Jackson - [msjx.org](https://msjx.org)
+
+## Introduction
+When I started getting interested in RPGs again, years after a bad burnout, I didn't have the opportunity to play in groups and therefore my attention was focused on solitaire systems.  
+Of all the rules-light systems discovered on the net, so1um proved to be the one that best suited my taste and my conception of the game.  
+It elegantly combines the mechanics of the classic D6 systems with the Risus clichés, guaranteeing the transversality that I have sought so much. It doesn't claim to be a full or crunchy system and that is its strong point.  
+Matt Jackson version 0.6 is perfectly playable and complete on its own, but I have a soft spot for random prompt generation, being a creative with little imagination.  
+In addition, the oracle, descendant of FU RPG, had been honed by Graven Utterance. I therefore decided to replace it and also to reintegrate some tools of Tiny Solitary Soldier, which so1um was inspired by in turn.  
+So this version more than a revision is a collection of additional materials to support the poor of imagination like myself. I hope you may find it useful.
 
 ## Create Your Hero
 
@@ -48,15 +55,15 @@ Figure out why your character is there and where they are in their story. Imagin
 
 ## Begin asking questions.
 
-To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. Then consult the Oracle: roll 2d6 one white, the other black (or any different colors you like). If white is highstet the answer is **Yes**. If black is highest, the answer is **No**. If both are low (3 or less), add **But** to the answer. If both are high (4 or more), add **And**. **And** amplifies, while **But** mitigates. **No, And** means things went really bad. **No, But** softens the blow a bit. **Yes, But** is successful but with a drawback. **Yes, And** is all kinds of awesome.
+To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. Then consult the Oracle: roll 2d6 one white, the other black (or any different colors you like). If white is the highstet the answer is **Yes**. If black is the highest, the answer is **No**. If both are low (3 or less), add **But** to the answer. If both are high (4 or more), add **And**. **And** amplifies, while **But** mitigates. **No, And** means things went really bad. **No, But** softens the blow a bit. **Yes, But** is successful but with a drawback. **Yes, And** is all kinds of awesome.
 
 If circumstances are different, include an additional die in favor of the more likely outcome when you roll, but only keep the higher die of that color when you compare.
 
 If the dice are equal a **twist happens**.
 
 Summing up:
-* white die is the highest: **Yes**
-* black die is the highest: **No**
+* White die is the highest: **Yes**
+* Black die is the highest: **No**
 * Both dice are 4+: **...And**
 * Both dice are 3-: **...But**
 * Both dice are equal: **Twist!**
@@ -109,9 +116,7 @@ Sometimes a closed **Yes/No** question it won't be enough. To answer an open que
 
 ## Determine the mood of the next scene
 
-Once the scene ends in some way (the protagonist's goal is met or failed) take a breath, and roll the next scene:
-
-At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following:
+At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
 
 |  D6 |   Next Scene   |
 |:---:|:--------------:|
@@ -119,9 +124,9 @@ At the end of the current scene, you may need to determine the general mood of t
 | 4-5 |   Quiet Scene  |
 |  6  |   Meanwhile…   |
 
-A *dramatic scene* does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
-During a *quiet scene* there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
-A *meanwhile scene* that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
+A **dramatic scene** does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
+During a **quiet scene** there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
+A **meanwhile scene** that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
 
 ## Contests
 
@@ -154,10 +159,17 @@ When you use a piece of gear intended to perform a particular task, you may rero
 
 ## How to find Good Clichés
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi eros, id fermentum ex efficitur fermentum. Quisque tincidunt ac metus id aliquet. Nullam faucibus hendrerit nisi ac elementum. Maecenas magna ligula, ullamcorper eu lorem id, ullamcorper aliquam nisl. Etiam maximus justo massa, vel consectetur tellus mattis a. Nulla id quam et purus varius blandit. Praesent quis diam at ipsum laoreet dictum vitae ut nulla. Donec quis consectetur sapien, quis congue massa. Quisque cursus facilisis leo et auctor. Cras feugiat convallis nunc, sit amet commodo libero tempus vel. Mauris nunc turpis, aliquet vel posuere quis, convallis eget augue.
+Clichés are tropes that define your hero. They depend primarily on the setting you use. But the reverse is also true: a cliché can suggest a lot about the game's setting if you don't have ideas on how to get started.
 
-## The Big List of Clichés
-Rhe following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
+A good way to create a character in the absence of inspiration is to rely on random lists (like the Big List of Cliché below), or the random generator (like the one on TV Tropes). Either way randomly generate until a cliché clicks in your mind. At this point the character (and perhaps the setting) has taken shape.
+
+Obviously no one forces you to randomly generate anything (as well as the other generation tables above are only designed as aids in case your mind is "stuck").
+
+A cliché should summarize your character's iconic characteristics such as their profession, their skills, their background and any information that has to do with their past and even their desires and any moral and personal affiliations.
+
+
+### The Big List of Clichés
+The following list comes to the aid of uninspired players. It contains a selection of classic stock characters that you can use verbatim or to unlock your creativity. 
 
 | D66 |               1-2              |                   3-4                  |             5-6             |
 |:---:|:------------------------------:|:--------------------------------------:|:---------------------------:|
@@ -198,14 +210,95 @@ Rhe following list comes to the aid of uninspired players. It contains a selecti
 |  65 |      Dark-Skinned Redhead      |              Human Weapon              |      Willing Channeler      |
 |  66 |          Death Seeker          |     Ignorant of Their Own Ignorance    |       Winged Humanoid       |
 
+
+## Non-player characters
+Non-player characters follow the same creation rules as heroes, making use of more appropriate clichés, depending on the kind of foe, which can range from the same as the heroes to the classic villain clichés (like *Evil Overlord*, *Mad Scientist*, *Mastermind*, etc.).
+
 ## Bestiary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat nisi eros, id fermentum ex efficitur fermentum. Quisque tincidunt ac metus id aliquet. Nullam faucibus hendrerit nisi ac elementum. Maecenas magna ligula, ullamcorper eu lorem id, ullamcorper aliquam nisl. Etiam maximus justo massa, vel consectetur tellus mattis a. Nulla id quam et purus varius blandit. Praesent quis diam at ipsum laoreet dictum vitae ut nulla. Donec quis consectetur sapien, quis congue massa. Quisque cursus facilisis leo et auctor. Cras feugiat convallis nunc, sit amet commodo libero tempus vel. Mauris nunc turpis, aliquet vel posuere quis, convallis eget augue.
+The following bestiary contains extensive examples covering multiple narrative genres and which can be used as a starting point and comparison to create your own encounters.
+
+### Animals
+**Alligator** B:3 M:2 S:2 HP:4 *Man-Eater Swimmer*  
+**Ape** B:3 M:2 S:3 HP:3 *Mighty Primate*  
+**Bear** B:5 M:1 S:3 HP:6 *Clawed Hugger*  
+**Boar** B:2 M:1 S:1 HP:2 *Wild Pig*  
+**Camel**  B:3 M:1 S:3 HP:2 *Ship of Desert*  
+**Centipede (giant)** B:2 M:1 S:1 HP:2 *Carapace, Multi-limbed*  
+**Coyote** B:1 M:1 S:2 HP:2 *Scavanger*  
+**Crocodile (giant)** B:3 M:1 S:3 HP:5 *Primeval Reptile*  
+**Dog** B:2 M:1 S:2 HP:3 *Domesticated Wolf*  
+**Elefant** B:5 M:2 S:3 HP:7 *Proboscis, Ivory Fangs*  
+**Horse** B:3 M:1 S:3 HP:3 *Mane and Hoof*  
+**Jackal** B:1 M:1 S:2 HP:1 *Scavanger*  
+**Hyena (giant)** B:3 M:1 S:2 HP:5 *Evil Laugh*  
+**Leopard** B:3 M:2 S:3 HP:3 *Stealthy Hunter, Big Cat*  
+**Lion** B:4 M:2 S:3 HP:5 *Roaring Big Cat*  
+**Lizard (giant)** B:4 M:1 S:1 HP:3 *Big Reptile*  
+**Rat (giant)** B:1 M:1 S:2 HP:1 *Diseased Bite*  
+**Shark** B:5 M:2 S:3 HP:5 *Jaws, Madly Attacker*  
+**Snake** B:1 M:1 S:1 HP:1 *Poisoned Bite*  
+**Spider (poisonous)** B:1 M:1 S:1 HP:1 *Lethal Poison, Bite*  
+
+### Fantasy
+
+**Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
+**Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
+**Dragon** B:6 M:4 S:4 HP:15 *Breath of Fire, Cunning*  
+**Gelatinous Cube** B:3 M:1 S:1 HP:1 *Doracious Devourer, Cold Resistant*  
+**Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
+**Gnoll** B:2 M:1 S:2 HP:4 *Hyena Face, Organized Clans*  
+**Lich** B:5 M:4 S:3 HP:10 *Undead Wizard, Highly Malign*  
+**Ogre** B:4 M:1 S:2 HP:4 *Furious Tempers, Gruesome Glutton*  
+**Skeleton** B:2 M:1 S:1 HP:1 *Animated Bones*  
+**Squidhead** B:2 M:5 S:4 HP:6 *Mind control, Illusion magic, Madness*  
+**Troll** B:4 M:1 S:2 HP:4 *Regeneration*   
+**Wraith** B:4 M:2 S:2 HP:4 *Weapon Immune, Draining Touch*  
+
+### Lovecratian
+**Chtonian** B:4 M:4 S:3 HP:7 *Mind Net, Tentacle Lash*  
+**Cultist** B:1 M:2 S:3 HP:1 *Fanatic Worshipper*   
+**Deep One** B:2 M:2 S:2 HP:1 *Clawed Slasher, Acquatic Creature*  
+**Elder Thing** B:2 M:4 S:3 HP:4 *Radial Simmetry, Otherworldly Winged Creature*  
+**Ghoul** B:1 M:1 S:1 HP:4 *Darksighter, Flesh Hunter*  
+**Hound of Tindalos**  B:3 M:4 S:2 HP:3 *Otherworldly Gaze, Alien Howlh*  
+**Mi-Go** B:1 M:3 S:2 HP:2 *Fungoid Crustacean, Amoral Scientist*  
+**Shoggoth** B:3 M:0 S:1 HP:4  *Amorphous Blob, Mindless Devourer*  
+**Star Spawn** B:3 M:4 S:3 HP:8  *Abyss Dweller, Eldritch Baiter*  
+**Yithian** B:3 M:5 S:3 HP:5 *Time Traveller, Toxic Spores*  
+
+### Pulp Adventure
+ 
+**Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*  
+**Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*  
+**Golem** B:5 M:1 S:1 HP:7 *Alchemical Construct, Big Moving Statue*  
+**Mummy** B:5 M:3 S:2 HP:5 *Once a King, Living Corpse*  
+**Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*  
+**Policeman** B:2 M:1 S:1 HP:1 *Legal Authority, Revolver*  
+**Savage** B:2 M:1 S:2 HP:1 *Hunter/Gatherer, Tribesman*  
+**Soldier** B:2 M:1 S:2 HP:1 *Trained in Weapons, Tactician*  
+**Vampire** B:5 M:4 S:4 HP:7 *Son of Night, Blood Craver*  
+**Werewolf**  B:3 M:1 S:2 HP:4 *Moon Sick, Shape Shifter*  
+**Yeti**  B:4 M:2 S:3 HP:6 *Abominable Snowman, High-Altitude Climber*  
+**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*  
+
+### Sci-fi
+
+**Arachnid** B:3 M:2 S:2 HP:8  *Chitin Hide, Octopodal*  
+**Black Destroyer** B:4 M:3 S:3 HP: 7 *Apex Predator, Sharp Mind*  
+**Bug-Eyed Monster** B:4 M:3 S:2 HP:10 *Hungry Alien Monster, Crawler*  
+**Combat Robot**: B:3 M:2 S:1 HP:4 *Rifled Arm, Programmed-to-kill*  
+**Floater** B:1 M:3 S:2 HP:6 *Jelly Creature, Tentacles*  
+**Miner Drone** B:1 M:1 S:1 HP:2 *Drilling Machine, Seek-and-Collect*  
+**Ooze** B:3 M:1 S:1 HP:4 *Toxic Splash, Tendrils*  
+**Pod Plants** B:3 M:1 S:2 HP:4 *Barbed Spines, Poisonous Thorns*  
+**Space Lizard** B:5 M:1 S:3 HP:8 *Formidable Predator, Giant Creature*  
+**Vermid** B:1 M:1 S:1 HP:1 *Pestilent Scavenger, Vacuum Resistant*  
+**Xenomorph** B:5 M:2 S:3 HP: 12 *Killing Machine, Acid Secretions*  
 
 ## Changelog
 
-so1um redux v1.0 vs. so1um 0.6
-
+so1um 0.6 to so1um enhanced:
 * *Create your hero section*: some rewording, striked off the backstory sentence
 * *Flesh out a background*: new section (see credits)
 * *Appearance*: new section (see credits)
@@ -219,8 +312,10 @@ so1um redux v1.0 vs. so1um 0.6
 * *Example clichés*: deleted section
 * *The Big List of Clichés*: new section  (see credits)
 * *Find good clichés*: new section
+* *Non-player characters*: new section
 * *Example characters*: deleted section
 * *Example monsters*: moved to *Bestiary*
+* *Bestiary*: new section
 
 ## Credits
 
