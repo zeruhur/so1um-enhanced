@@ -219,41 +219,41 @@ Non-player characters follow the same creation rules as heroes, making use of mo
 The following bestiary contains extensive examples covering multiple narrative genres and which can be used as a starting point and comparison to create your own encounters.
 
 ### Animals
-**Alligator**  
-**Ape**  
-**Bear**  
-**Boar**  
-**Camel**  
-**Centipede (giant)**  
-**Coyote**  
-**Crocodile**  
-**Dog**  
-**Elefant**  
-**Horse**  
-**Jackal**  
-**Hyena**  
-**Leopard**  
-**Lion**  
-**Lizard (giant)**  
-**Rat (giant)**  
-**Shark**  
-**Snake**  
-**Spider (giant)**  
+**Alligator** B:3 M:2 S:2 HP:4 *Man-Eater Swimmer*  
+**Ape** B:3 M:2 S:3 HP:3 *Mighty Primate*  
+**Bear** B:5 M:1 S:3 HP:6 *Clawed Hugger*  
+**Boar** B:2 M:1 S:1 HP:2 *Wild Pig*  
+**Camel**  B:3 M:1 S:3 HP:2 *Ship of Desert*  
+**Centipede (giant)** B:2 M:1 S:1 HP:2 *Carapace, Multi-limbed*  
+**Coyote** B:1 M:1 S:2 HP:2 *Scavanger*  
+**Crocodile (giant)** B:3 M:1 S:3 HP:5 *Primeval Reptile*  
+**Dog** B:2 M:1 S:2 HP:3 *Domesticated Wolf*  
+**Elefant** B:5 M:2 S:3 HP:7 *Proboscis, Ivory Fangs*  
+**Horse** B:3 M:1 S:3 HP:3 *Mane and Hoof*  
+**Jackal** B:1 M:1 S:2 HP:1 *Scavanger*  
+**Hyena (giant)** B:3 M:1 S:2 HP:5 *Evil Laugh*  
+**Leopard** B:3 M:2 S:3 HP:3 *Stealthy Hunter, Big Cat*  
+**Lion** B:4 M:2 S:3 HP:5 *Roaring Big Cat*  
+**Lizard (giant)** B:4 M:1 S:1 HP:3 *Big Reptile*  
+**Rat (giant)** B:1 M:1 S:2 HP:1 *Diseased Bite*  
+**Shark** B:5 M:2 S:3 HP:5 *Jaws, Madly Attacker*  
+**Snake** B:1 M:1 S:1 HP:1 *Poisoned Bite*  
+**Spider (poisonous)** B:1 M:1 S:1 HP:1 *Lethal Poison, Bite*  
 
 ### Fantasy
 
 **Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
 **Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
-**Dragon** 
-**Gelatinous Cube**
+**Dragon** B:6 M:4 S:4 HP:15 *Breath of Fire, Cunning*  
+**Gelatinous Cube** B:3 M:1 S:1 HP:1 *Doracious Devourer, Cold Resistant*  
 **Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
-**Gnoll** 
-**Lich**
-**Mimic** 
-**Skeleton** 
+**Gnoll** B:2 M:1 S:2 HP:4 *Hyena Face, Organized Clans*  
+**Lich** B:5 M:4 S:3 HP:10 *Undead Wizard, Highly Malign*  
+**Ogre** B:4 M:1 S:2 HP:4 *Furious Tempers, Gruesome Glutton*  
+**Skeleton** B:2 M:1 S:1 HP:1 *Animated Bones*  
 **Squidhead** B:2 M:5 S:4 HP:6 *Mind control, Illusion magic, Madness*  
-**Troll** B:4 M:1 S:2 HP:4 *Regeneration*  
-**Wraith**
+**Troll** B:4 M:1 S:2 HP:4 *Regeneration*   
+**Wraith** B:4 M:2 S:2 HP:4 *Weapon Immune, Draining Touch*  
 
 ### Lovecratian
 **Chtonian** B:4 M:4 S:3 HP:7 *Mind Net, Tentacle Lash*  
