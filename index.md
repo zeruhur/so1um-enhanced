@@ -23,7 +23,7 @@ When playing alone, it can be helpful to start with the story to define your cha
 |  1 |    The Paragon    | Perfectionist |     Brave    | Bellicose |  Parental Abandonment  |
 |  2 |     The Cynic     |     Helper    |   Generous   |   Gloomy  |     Retired Badass     |
 |  3 |      The Fool     |     Seeker    |     Witty    |  Envious  |     Mysterious Past    |
-|  4 |    The Idealist   |    Mediator   | Coscientious |    Mean   |  Career-Ending Injury  |
+|  4 |    The Idealist   |    Mediator   | Conscientious |    Mean   |  Career-Ending Injury  |
 |  5 |   Lovable Rogue   |   Enthusiast  |   Temperate  |    Lazy   |     Had to Be Sharp    |
 |  6 | Rebellious Spirit | Individualist |     Loyal    |    Rude   | Dark and Troubled Past |
 
@@ -55,7 +55,7 @@ Figure out why your character is there and where they are in their story. Imagin
 
 ## Begin asking questions.
 
-To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. Then consult the Oracle: roll 2d6 one white, the other black (or any different colors you like). If white is the highstet the answer is **Yes**. If black is the highest, the answer is **No**. If both are low (3 or less), add **But** to the answer. If both are high (4 or more), add **And**. **And** amplifies, while **But** mitigates. **No, And** means things went really bad. **No, But** softens the blow a bit. **Yes, But** is successful but with a drawback. **Yes, And** is all kinds of awesome.
+To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. Then consult the Oracle: roll 2d6 one white, the other black (or any different colors you like). If white is the highest the answer is **Yes**. If black is the highest, the answer is **No**. If both are low (3 or less), add **But** to the answer. If both are high (4 or more), add **And**. **And** amplifies, while **But** mitigates. **No, And** means things went really bad. **No, But** softens the blow a bit. **Yes, But** is successful but with a drawback. **Yes, And** is all kinds of awesome.
 
 If circumstances are different, include an additional die in favor of the more likely outcome when you roll, but only keep the higher die of that color when you compare.
 
@@ -143,7 +143,7 @@ When your character comes into dangerous or risky situations, determine Difficul
 
 ## Scale Up/Down Difficulty
 
-Difficulty is situational and it is determined by events in the scene. There are cases in which, however, the difficulty could be different from that expected. Roll 2d6: if both are even, Diffulty scale up of one position, if both are odd Diffulty scale down, else Difficulty is as expected.
+Difficulty is situational and it is determined by events in the scene. There are cases in which, however, the difficulty could be different from that expected. Roll 2d6: if both are even, Diffulty scale up of one position, if both are odd Difficulty scale down, else Difficulty is as expected.
 
 ## Resolving Combat
 
@@ -225,12 +225,12 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Boar** B:2 M:1 S:1 HP:2 *Wild Pig*  
 **Camel**  B:3 M:1 S:3 HP:2 *Ship of Desert*  
 **Centipede (giant)** B:2 M:1 S:1 HP:2 *Carapace, Multi-limbed*  
-**Coyote** B:1 M:1 S:2 HP:2 *Scavanger*  
+**Coyote** B:1 M:1 S:2 HP:2 *Scavenger*  
 **Crocodile (giant)** B:3 M:1 S:3 HP:5 *Primeval Reptile*  
 **Dog** B:2 M:1 S:2 HP:3 *Domesticated Wolf*  
-**Elefant** B:5 M:2 S:3 HP:7 *Proboscis, Ivory Fangs*  
+**Elephant** B:5 M:2 S:3 HP:7 *Proboscis, Ivory Fangs*  
 **Horse** B:3 M:1 S:3 HP:3 *Mane and Hoof*  
-**Jackal** B:1 M:1 S:2 HP:1 *Scavanger*  
+**Jackal** B:1 M:1 S:2 HP:1 *Scavenger*  
 **Hyena (giant)** B:3 M:1 S:2 HP:5 *Evil Laugh*  
 **Leopard** B:3 M:2 S:3 HP:3 *Stealthy Hunter, Big Cat*  
 **Lion** B:4 M:2 S:3 HP:5 *Roaring Big Cat*  
@@ -245,7 +245,7 @@ The following bestiary contains extensive examples covering multiple narrative g
 **Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
 **Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
 **Dragon** B:6 M:4 S:4 HP:15 *Breath of Fire, Cunning*  
-**Gelatinous Cube** B:3 M:1 S:1 HP:1 *Doracious Devourer, Cold Resistant*  
+**Gelatinous Cube** B:3 M:1 S:1 HP:1 *Voracious Devourer, Cold Resistant*  
 **Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
 **Gnoll** B:2 M:1 S:2 HP:4 *Hyena Face, Organized Clans*  
 **Lich** B:5 M:4 S:3 HP:10 *Undead Wizard, Highly Malign*  
@@ -258,10 +258,10 @@ The following bestiary contains extensive examples covering multiple narrative g
 ### Lovecratian
 **Chtonian** B:4 M:4 S:3 HP:7 *Mind Net, Tentacle Lash*  
 **Cultist** B:1 M:2 S:3 HP:1 *Fanatic Worshipper*   
-**Deep One** B:2 M:2 S:2 HP:1 *Clawed Slasher, Acquatic Creature*  
-**Elder Thing** B:2 M:4 S:3 HP:4 *Radial Simmetry, Otherworldly Winged Creature*  
+**Deep One** B:2 M:2 S:2 HP:1 *Clawed Slasher, Aquatic Creature*  
+**Elder Thing** B:2 M:4 S:3 HP:4 *Radial Symmetry, Otherworldly Winged Creature*  
 **Ghoul** B:1 M:1 S:1 HP:4 *Darksighter, Flesh Hunter*  
-**Hound of Tindalos**  B:3 M:4 S:2 HP:3 *Otherworldly Gaze, Alien Howlh*  
+**Hound of Tindalos**  B:3 M:4 S:2 HP:3 *Otherworldly Gaze, Alien Howl*  
 **Mi-Go** B:1 M:3 S:2 HP:2 *Fungoid Crustacean, Amoral Scientist*  
 **Shoggoth** B:3 M:0 S:1 HP:4  *Amorphous Blob, Mindless Devourer*  
 **Star Spawn** B:3 M:4 S:3 HP:8  *Abyss Dweller, Eldritch Baiter*  
@@ -270,7 +270,7 @@ The following bestiary contains extensive examples covering multiple narrative g
 ### Pulp Adventure
  
 **Femme Fatale** B:1 M:2 S:2 HP:1 *Shameless Seductress, Dark Action Girl*  
-**Gangster** B:1 M:1 S:1 HP:1 *Street Deliquent, Gunman*  
+**Gangster** B:1 M:1 S:1 HP:1 *Street Delinquent, Gunman*  
 **Golem** B:5 M:1 S:1 HP:7 *Alchemical Construct, Big Moving Statue*  
 **Mummy** B:5 M:3 S:2 HP:5 *Once a King, Living Corpse*  
 **Nomad** B:2 M:2 S:2 HP:2 *Wilderness Survivalist, Swordsman*  
@@ -284,7 +284,7 @@ The following bestiary contains extensive examples covering multiple narrative g
 
 ### Sci-fi
 
-**Arachnid** B:3 M:2 S:2 HP:8  *Chitin Hide, Octopodal*  
+**Arachnid** B:3 M:2 S:2 HP:8  *Chitin Hide, Octopod*  
 **Black Destroyer** B:4 M:3 S:3 HP: 7 *Apex Predator, Sharp Mind*  
 **Bug-Eyed Monster** B:4 M:3 S:2 HP:10 *Hungry Alien Monster, Crawler*  
 **Combat Robot**: B:3 M:2 S:1 HP:4 *Rifled Arm, Programmed-to-kill*  
@@ -299,10 +299,10 @@ The following bestiary contains extensive examples covering multiple narrative g
 ## Changelog
 
 so1um 0.6 to so1um enhanced:
-* *Create your hero section*: some rewording, striked off the backstory sentence
+* *Create your hero section*: some rewording, stroked off the backstory sentence
 * *Flesh out a background*: new section (see credits)
 * *Appearance*: new section (see credits)
-* *Determine goals & the first scene* striked off half the text, added the adventure seed generator (see credits)
+* *Determine goals & the first scene* stroked off half the text, added the adventure seed generator (see credits)
 * *Begin asking questions* and *And & But Results* completely replaced by Recluse oracle (see credits)
 * *Determine the twist*: new section  (see credits)
 * *Ask an open question or get inspired*: new section
